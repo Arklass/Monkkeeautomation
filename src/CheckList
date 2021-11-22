@@ -1,0 +1,26 @@
+Checklist for https://my.monkkee.com/
+
+1) Authorization
+-Check the authorization of the user on the site (registered user \ not registered \ incorrect username \ password
+
+2) Registration
+- Check user registration on the site
+
+3) Diary entries
+- Check adding record
+- Check deletion of one record \ multiple records
+- Check the editing of the entry
+
+4) Tags
+- Add new \ existing tag to the post. Check that tags have been added
+- Remove the tag. Check that the tag has been removed from the records to which it was added
+- Check the sorting of records by tags
+
+5) Search
+- Check the work of the search. Introduce used \ unused characters \ words in records
+
+6) Sort by date.
+- Check sorting by date. Select a date in the "Calendar", check that records for the selected date are displayed
+
+7) Print the record.
+- Select an entry, click the "Print selected entries" button. Check that a page has opened with the text of the selected record and the date.
